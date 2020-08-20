@@ -1,2 +1,2 @@
 # PrioritySort
-Sorting lists n various fasions in Object Oriented way. 
+Sorting lists in various fashions in Object Oriented way. 
