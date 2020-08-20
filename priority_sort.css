@@ -1,0 +1,18 @@
+.priority-sort {
+  float:left;
+  margin-right:250px;
+}
+
+.lists {
+  float:left;
+  margin-left:70px;
+  margin-right:50px;
+}
+#ascending {
+  margin-left:10%;
+  margin-top:3%;
+  margin-bottom:3%;
+}
+.selected {
+  background-color: yellow;
+}
